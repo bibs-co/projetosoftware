@@ -1,0 +1,14 @@
+----------------------
+|      Roupa         |
+----------------------
+| marca: String      |
+| tipo: String       |
+| tamanho: String    |
+| qnt: int           |
+| valor: double      |
+----------------------
+| total(): double    |
+| adicionarEstoque() |
+| removerEstoque()   |
+| exibirInformacoes()|
+----------------------
